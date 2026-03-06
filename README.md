@@ -18,7 +18,7 @@ English：[`README_EN.md`](./README_EN.md)
 
 > **免责声明**  
 > 本项目仅供学习交流使用。我们不对任何数据丢失负责，强烈建议定期备份您的密码库。  
-> 本项目与 Bitwarden 官方无关，请勿向 Bitwarden 官方反馈问题。
+> 本项目与 Bitwarden 官方无关，请勿向 Bitwarden 官方反馈问题1。
 
 ---
 ## 与 Bitwarden 官方服务端能力对比
